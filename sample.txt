@@ -1,21 +1,2 @@
-<<<<<<< HEAD
-1
-2
-3
-`
-=======
- a;jsdkjf;alj
-sdlkjf;lkajsd
-akjdfkjkasdk;ljfk;ajsd;kfjalksdjfkdlasjflksdjlf;js;lkajfl;sjsl;dddddddddddddddd samslk;djf;lskdjf;lja
+Add 1
 
-
-sdfdsf
-u
-u
-u
-
-u
-u
-uu
-
->>>>>>> Edited master
